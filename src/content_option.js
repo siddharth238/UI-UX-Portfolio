@@ -48,6 +48,12 @@ const worktimeline = [
         link: "https://www.hackerrank.com/siddharthroy1"
     },
     {
+        jobtitle: "Among Top 10 teams in HackSRM",
+        where: "SRM University",
+        date: "2021",
+         
+    },
+    {
         jobtitle: "Top 10th student to got an opportunity to work as a C/C++ teaching assistant",
         where: "SRM, AP",
         date: "2021",
@@ -139,7 +145,7 @@ const dataportfolio = [
     }, {
         img: "https://www.linkpicture.com/q/Screenshot-2022-07-14-140753.png",
         title: "UI/UX Portfolio",
-        link: "https://github.com/siddharth238/UI-UX-build",
+        link: "https://github.com/siddharth238/UI-UX-portfolio",
 
         description: "Fully responsive UI & UX Technical Portfolio",
         page: true
@@ -223,7 +229,6 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/siddharth238",
-    facebook: "https://facebook.com",
     linkedin: "https://www.linkedin.com/in/siddharth-p-193125201/",
 
 };

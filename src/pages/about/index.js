@@ -50,7 +50,7 @@ export const About = () => {
                       <th scope="row">{data.jobtitle}</th>
                       <td>{data.where}</td>
                       <td>{data.date}</td>
-                      <td><IconButton target="_blank" href={data.link}><OpenInNewIcon/></IconButton> </td>
+                      {data.link && <td><IconButton target="_blank" href={data.link}><OpenInNewIcon/></IconButton> </td>}
                     </tr>
                   );
                 })}
