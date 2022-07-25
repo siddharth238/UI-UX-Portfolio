@@ -1,5 +1,5 @@
 # paypal-ui-ux-dashboard
-<h3>Built from scratch </h3>
+<h3>Built Using bootstrap 5, Figma and allied tools</h3>
 <h3>🔴 The project is live at https://siddharthroyx.netlify.app/ </h3> 
 
 
